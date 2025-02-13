@@ -8,10 +8,10 @@ BBRChecker is a passion project designed to utilize the BattleBit Remastered API
 
 
 ## Features ✨
-- **Real-Time Rank Monitoring**: Get instant updates when player rankings change.
+- **Real-Time Rank Monitoring**: Get fast updates when player rankings change.
 - **Leaderboard Stats**: Fetch player rankings and statistics efficiently.
 - **Automated Notifications**: Stay informed with automated alerts for ranking changes.
-- **Flexible Integration**: Designed for multiple platforms with simple integration.
+- **Flexible Integration**: Designed for the Twitch platform with simple usage.
 
 ### 📌 Key Functionalities
 | Function         | Description |
